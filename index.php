@@ -2,11 +2,31 @@
 <head>
 <title>Project 1 for dwa15</title>
 <style type="text/css">
-
+body{
+	background-color:rgb(204,204,204);
+	}
+#myName{
+	background-color: rgb(51, 153, 204);
+	width: 600px;
+	}
+h1{
+	text-align: center;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 20px;
+	}
+#mainText{
+	
+	}
+p{
+	margin-left: 20px;
+	}
+}
 </style>
 </head>
 <body>
+<div id ="myName">
 <h1>Greg Martin</h1>
+</div>
 <div id="mainText">
 <p>I am originally from Thomaston, CT.  I graduated from Boston College
  with a degree in Music and currently work at MCPHS University (formerly the Massachusetts 
@@ -15,7 +35,7 @@
  studying Web Design last fall in MassArt's Continuing Education program.</p>
 <p>In my spare time, I play double bass with several jazz groups and the Brookline Symphony Orchestra, 
 and guitar whenever I can.</p>
-<p>For this class I will be coding in Notepad++</p>
+<p>For this class, I will be coding in Notepad++</p>
 </div>
 </body>
 
