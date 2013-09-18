@@ -2,29 +2,7 @@
 <head>
 <meta charset="utf-8">
 <title>Project 1 for dwa15</title>
-<style type="text/css">
-body{
-	background-color: rgb(204,204,204);
-	}
-#myName{
-	background-color: rgb(51, 153, 204);
-	width: 750px;
-	}
-h1{
-	text-align: center;
-	font-family: Arial, Verdana, sans-serif;
-	font-size: 20px;
-	}
-#mainText{
-	width: 590;
-	margin: 20px 80px 0px 80px ;
-	text-align: center;
-	}
-p{
-	font-family: "Times New Roman",Georgia,serif;
-	}
-}
-</style>
+<link href="p1.css" type="text/css" rel="stylesheet />
 </head>
 <body>
 <div id ="myName">
