@@ -2,13 +2,13 @@
 <head>
 <meta charset="utf-8">
 <title>Project 1 for dwa15</title>
-<link href="p1.css" type="text/css" rel="stylesheet />
+<link href="p1.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
-<div id ="myName">
+<div id= "myName">
 	<h1>Greg Martin</h1>
 </div>
-<div id="mainText">
+<div id= "mainText">
 	<p>I am originally from Thomaston, CT.  I graduated from Boston College
 	 with a degree in Music and currently work at MCPHS University (formerly the Massachusetts 
 	 College of Pharmacy and Health Sciences) in Boston.  I earned an undergraduate certificate
