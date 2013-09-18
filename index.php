@@ -1,3 +1,4 @@
+@charset "utf-8";
 <html>
 <head>
 <title>Project 1 for dwa15</title>
@@ -7,7 +8,7 @@ body{
 	}
 #myName{
 	background-color: rgb(51, 153, 204);
-	width: 600px;
+	width: 750px;
 	}
 h1{
 	text-align: center;
