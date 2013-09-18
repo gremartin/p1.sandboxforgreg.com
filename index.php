@@ -15,10 +15,12 @@ h1{
 	font-size: 20px;
 	}
 #mainText{
-	
+	width: 590;
+	margin: 20px 80px 0px 80px ;
+	text-align:center;
 	}
 p{
-	margin-left: 20px;
+	font-family: "Times New Roman", Georgia, serif;
 	}
 }
 </style>
